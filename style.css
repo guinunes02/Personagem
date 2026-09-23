@@ -63,8 +63,7 @@ h3 {
 
 div {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     gap: 20px;
-    position: absolute;
     left: 180px; 
 }
