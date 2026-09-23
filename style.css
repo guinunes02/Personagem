@@ -67,3 +67,32 @@ div {
     gap: 20px;
     left: 180px; 
 }
+
+@media (max-width: 768px) {
+  body {
+    padding: 10px;
+  }
+
+  main {
+    padding: 15px;
+    border-radius: 25px;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+
+  h2 {
+    font-size: 1.8rem;
+  }
+
+  h3 {
+    font-size: 1rem;
+  }
+ 
+  .img {
+    width: 100px;
+    height: 150px;
+  }
+
+}
